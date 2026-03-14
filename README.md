@@ -1,10 +1,10 @@
 # Exploratory Data Analysis with Python and Pandas
 
-This project demonstrates a complete **Exploratory Data Analysis (EDA)** workflow using Python. The analysis is performed on a supermarket sales dataset to explore customer purchasing behavior, sales trends, and relationships between variables.
+This project demonstrates a complete **Exploratory Data Analysis (EDA)** workflow using Python on a supermarket sales dataset. 
 
-The project uses Python data analysis and visualization libraries such as **Pandas**, **NumPy**, **Seaborn**, and **Matplotlib** within a Jupyter Notebook environment to perform statistical exploration, data cleaning, and visualization.
+Using libraries such as **Pandas, NumPy, Seaborn, and Matplotlib** within a **Jupyter Notebook environment**, the project explores customer purchasing behavior, sales trends, and relationships between variables.
 
-The primary goal is to showcase how EDA can be used to understand dataset structure, detect patterns, handle data quality issues, and derive insights before building machine learning models.
+The analysis illustrates how EDA helps understand dataset structure, detect patterns, handle data quality issues, and generate insights prior to building machine learning models.
 
 ## Dataset
 
@@ -47,7 +47,7 @@ The following Python libraries are used in this project:
 
 ## Exploratory Data Analysis Workflow
 
-The EDA process in this project is organized into several analytical tasks.
+The EDA process in this project is organized into the following analytical tasks.
 
 ### Task 1 — Initial Data Exploration
 The first step involves understanding the dataset structure and preparing the environment.
