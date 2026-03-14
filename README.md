@@ -4,7 +4,7 @@ This project demonstrates a complete **Exploratory Data Analysis (EDA)** workflo
 
 The project uses Python data analysis and visualization libraries such as **Pandas**, **NumPy**, **Seaborn**, and **Matplotlib** within a Jupyter Notebook environment to perform statistical exploration, data cleaning, and visualization.
 
-The primary goal of this project is to showcase how EDA can be used to understand dataset structure, detect patterns, handle data quality issues, and derive insights before building machine learning models.
+The primary goal is to showcase how EDA can be used to understand dataset structure, detect patterns, handle data quality issues, and derive insights before building machine learning models.
 
 ## Dataset
 
