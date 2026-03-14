@@ -208,4 +208,10 @@ This visualization helps identify:
 - Weak relationships
 - Potential predictive features
 
+## Key Insights
+- Branch C generated the highest median gross income.
+- Customer ratings show a near-normal distribution centered around ~7.
+- Gross income shows a weak positive correlation with customer ratings.
+- Cash and E-wallet are the most commonly used payment methods.
+
 ---
